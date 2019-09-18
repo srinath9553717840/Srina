@@ -1,0 +1,6 @@
+class barry{
+	public static void main(String... args){
+
+
+	}
+}
